@@ -1,0 +1,41 @@
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe.config
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.pdb
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csprojResolveAssemblyReference.cache
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form1.resources
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Properties.Resources.resources
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csproj.GenerateResource.Cache
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.exe
+\\centre-fsrv07\sshome$\352849277\visual studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.pdb
+\\centre-fsrv07\SSHome$\352849277\Visual Studio 2017\Projects\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form2.resources
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe.config
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.pdb
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csprojResolveAssemblyReference.cache
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form1.resources
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form2.resources
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Properties.Resources.resources
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csproj.GenerateResource.Cache
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.exe
+R:\DYOUV\ICS4U101 MCGUIRE\Students\Peiris, Nipuna\CPT - Nipuna & Alan - For Mrs.Alonzi\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.pdb
+A:\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe.config
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.exe
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.pdb
+A:\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe
+A:\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.pdb
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csprojResolveAssemblyReference.cache
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form1.resources
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form2.resources
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Properties.Resources.resources
+A:\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csproj.GenerateResource.Cache
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe.config
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.exe
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\bin\Debug\CPT - Alonzi.pdb
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csprojAssemblyReference.cache
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form1.resources
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Form2.resources
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT___Alonzi.Properties.Resources.resources
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csproj.GenerateResource.cache
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.csproj.CoreCompileInputs.cache
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.exe
+D:\!FILES\School\Gr.12\Computers\CPT - Alonzi\CPT - Alonzi\obj\Debug\CPT - Alonzi.pdb
